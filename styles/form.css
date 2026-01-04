@@ -1,0 +1,37 @@
+/* Form validation styles */
+.error-message {
+  background-color: #ffebee;
+  color: #c62828;
+  padding: 10px;
+  border-radius: 4px;
+  margin-bottom: 15px;
+  border-left: 4px solid #c62828;
+}
+
+.success-message {
+  background-color: #e8f5e9;
+  color: #2e7d32;
+  padding: 10px;
+  border-radius: 4px;
+  margin-bottom: 15px;
+  border-left: 4px solid #2e7d32;
+}
+
+.field-error {
+  color: #c62828;
+  font-size: 0.8rem;
+  display: block;
+  margin-top: 4px;
+}
+
+.form-container input:invalid,
+.form-container textarea:invalid,
+.form-container select:invalid {
+  border-color: #c62828;
+}
+
+.form-container input:focus:invalid,
+.form-container textarea:focus:invalid,
+.form-container select:focus:invalid {
+  box-shadow: 0 0 0 2px rgba(198, 40, 40, 0.2);
+}
