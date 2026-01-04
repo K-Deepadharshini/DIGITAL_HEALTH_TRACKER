@@ -5,27 +5,27 @@ The platform also provides QR-based emergency access to vital health information
 
 📌 Problem Statement
 Most individuals lack a single, secure platform to manage their:
-Medical records
-Prescriptions
-Test reports
-Allergies
+Medical records,
+Prescriptions,
+Test reports,
+Allergies,
 Vaccination history
 In emergencies, missing or inaccessible records can delay treatment and risk lives. Health data is often scattered across hospitals or locked in paper files, making access and sharing difficult.
 
 💡 Solution
 The Digital Health Tracker bridges this gap by offering:
-A centralized system to store all health records
-Secure login with consent-based data sharing
-Emergency QR code for instant access to vital medical information
-Easy upload and retrieval of medical documents
+A centralized system to store all health records,
+Secure login with consent-based data sharing,
+Emergency QR code for instant access to vital medical information,
+Easy upload and retrieval of medical documents.
 
 🎯 Objectives
-Digitally store and manage personal health records
-Improve emergency response using QR-based health access
-Track medications, vaccinations, and appointments
-Ensure secure authentication and user privacy
-Provide a responsive and user-friendly interface
-Build a scalable system for future healthcare integrations
+Digitally store and manage personal health records,
+Improve emergency response using QR-based health access,
+Track medications, vaccinations, and appointments,
+Ensure secure authentication and user privacy,
+Provide a responsive and user-friendly interface,
+Build a scalable system for future healthcare integrations.
 
 🚀 Features
 ✅ User Registration & Login
@@ -38,22 +38,24 @@ Build a scalable system for future healthcare integrations
 
 🛠️ Tech Stack
 Frontend
-HTML
-CSS
-React.js
+HTML,
+CSS,
+React.js.
 
 Backend
-Node.js
-Express.js
+Node.js,
+Express.js.
 
 Database
 MongoDB
 
 Algorithms Used
-Unique User ID Generation
-QR Code Generation linked to health records
-Secure retrieval of health data via QR scan
+Unique User ID Generation,
+QR Code Generation linked to health records,
+Secure retrieval of health data via QR scan.
+
 Project Structure
+
 DIGITAL-HEALTH-TRACKER
 │
 ├── backend
@@ -121,7 +123,7 @@ screenshots/
 <img width="540" height="1200" alt="image" src="https://github.com/user-attachments/assets/c02aed7c-5962-43bc-b066-6f795170a9fe" />
 <img width="540" height="1200" alt="image" src="https://github.com/user-attachments/assets/d8358421-717b-4dfd-85a7-9fc72a203486" />
 
-
+Developed by Deepadharshini K
 
 
 
